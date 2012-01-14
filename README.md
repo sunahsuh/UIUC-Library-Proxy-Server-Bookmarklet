@@ -9,4 +9,5 @@ If you're on Chrome/Chromium and have your bookmarks bar hidden, hit Ctrl+Shift+
 Here's the javascript snippet it uses:
 
 > javascript:location.href=("https://proxy2.library.illinois.edu/login?url=" + location.href);
+
 Feel free to email me at sunahsuh at illinois dot edu if you encounter issues.
